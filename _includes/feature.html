@@ -17,12 +17,6 @@
 			<div class="cover-subtitle">{{ feature.feature-description }}</div>
 
 			<div class="cover-venue">
-				{% if feature.authors %}
-				{{ feature.authors[0]}
-				{% endif %}
-			</div>
-
-			<div class="cover-venue">
 				{% if feature.venue-shorthand %}
 				{{ feature.venue-shorthand }}
 				{% else if feature.venue %}

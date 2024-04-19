@@ -23,7 +23,7 @@ type: conference
 figure: /images/papers/predtoken.png
 doi: 10.1145/3491102.3501823
 selected: true
-feature-description: PredToken generates high-quality images and videos using a coarse-to-fine manner
+feature-description: PredToken generates high-quality images and videos using a coarse-to-fine manner <br> Xuesong Nie
 image: /images/featured/predtoken.png
 featured: true
 feature-order: 0
