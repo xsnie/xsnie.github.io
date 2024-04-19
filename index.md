@@ -40,13 +40,13 @@ title: Home
 
 <hr class="l-middle home-hr">
 
-<h2 class="feature-title l-page">Featured <a href="/cv/#publications">Research Publications</a></h2>
+<h2 class="feature-title l-middle">Featured <a href="/cv/#publications">Research Publications</a></h2>
 
-<p class="feature-text l-page">
+<p class="l-middle feature-text">
 	My recent research for generative models, spatiotemporal predictive learning, and image / video perception.
 </p>
 
-<div class="cover-wrapper cover-wrapper-3-col l-page">
+<div class="cover-wrapper cover-wrapper-3-col l-middle">
 	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
 	{% for feature in sortedPublications %}
 		{% if feature.featured == true %}
@@ -56,9 +56,9 @@ title: Home
 </div>
 
 <br>
-<h2 class="feature-title l-page">Featured <a href="/dissertation">Dissertation Publications</a></h2>
+<h2 class="feature-title l-middle">Featured <a href="/dissertation">Dissertation Publications</a></h2>
 
-<p class="feature-text l-page">
+<p class="l-middle feature-text">
 	My recent research for open-source projects and everything else.
 </p>
 
@@ -66,7 +66,7 @@ title: Home
 	{% include dissertation/document.html details=false location=home %}
 </div>
 
-<div class="cover-wrapper cover-wrapper-3-col l-page">
+<div class="cover-wrapper cover-wrapper-3-col l-middle">
 	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
 	{% for feature in sortedPublications %}
 		{% if feature.dissertation == true %}
