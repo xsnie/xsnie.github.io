@@ -26,11 +26,11 @@ title: Home
 		<a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a>
 	</div>
 	<div>
-		I am currently a second-year M.S. student in the Zhejiang University working on Computer Vision, supervised by Prof. <a href="https://person.zju.edu.cn/0004117">Donglian Qi</a>. Before that, I obtained a Bachelor of Science in Communication Engineering from Henan University. I have spent wonderful times as an intern with with Dr. <a href="https://xavierchen34.github.io/">Xi Chen</a> at Alibaba, and Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ">Stan Z. Li</a> at <a href="https://www.westlake.edu.cn/">CAIRI AI Lab</a>.
+		I am currently a second-year M.S. student in the Zhejiang University working on computer vision, supervised by Prof. <a href="https://person.zju.edu.cn/0004117">Donglian Qi</a>. Before that, I obtained a Bachelor of Science in Communication Engineering from Henan University. I have spent wonderful times as an intern with with Dr. <a href="https://xavierchen34.github.io/">Xi Chen</a> at Alibaba, and Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ">Stan Z. Li</a> at <a href="https://www.westlake.edu.cn/">CAIRI AI Lab</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		My long-term aspiration to help people <b>understand the world</b> with <b>machine learning models</b>. With this vision in mind, my current research interests and focus: 1. Spatiotemporal Predictive Learning; 2. Visual Perception; 3. Generative Models; 4. AI for Science. More experiences about me please refer to <a href="/cv">my CV</a>.
+		My long-term aspiration is to help people <b>understand the world</b> with <b>machine learning models</b>. With this vision in mind, my current research interests and focus: 1. Spatiotemporal Predictive Learning; 2. Visual Perception; 3. Generative Models; 4. AI for Science, but not limited to these fields. More details about me please refer to <a href="/cv">CV</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
