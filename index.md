@@ -63,7 +63,7 @@ title: Home
 </p>
 
 <div class="cover-wrapper cover-wrapper-1-col l-middle">
-	{% include dissertation/document.html details=false location=home %}
+	{% include dissertation/openstl.html details=false location=home %}
 </div>
 
 <div class="cover-wrapper cover-wrapper-3-col l-middle">
