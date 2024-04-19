@@ -40,7 +40,11 @@ title: Home
 
 <hr class="l-middle home-hr">
 
-<h2 class="feature-title">Featured <a href="/cv/#publications">Research Publications</a></h2>
+<h2 class="feature-title l-page">Featured <a href="/cv/#publications">Research Publications</a></h2>
+
+<p class="feature-text l-page">
+	My recent research for generative models, spatiotemporal predictive learning, and image / video perception.
+</p>
 
 <div class="cover-wrapper cover-wrapper-3-col l-page">
 	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
@@ -52,7 +56,11 @@ title: Home
 </div>
 
 <br>
-<h2 class="feature-title">Featured <a href="/dissertation">Dissertation Publications</a></h2>
+<h2 class="feature-title l-page">Featured <a href="/dissertation">Dissertation Publications</a></h2>
+
+<p class="feature-text l-page">
+	My recent research for open-source projects and everything else.
+</p>
 
 <div class="cover-wrapper cover-wrapper-1-col l-text">
 	{% include dissertation/document.html details=false location=home %}
