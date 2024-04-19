@@ -30,7 +30,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		My long-term aspiration to help people <b>understand the world</b> with <b>machine learning models</b>. With this vision in mind, my current research interests and focus: 1. Spatiotemporal Predictive Learning; 2. Image / Video Perception; 3. Generative Models; 4. AI for Science. More experiences about me please refer to <a href="/cv">my CV</a>.
+		My long-term aspiration to help people <b>understand the world</b> with <b>machine learning models</b>. With this vision in mind, my current research interests and focus: 1. Spatiotemporal Predictive Learning; 2. Visual Perception; 3. Generative Models; 4. AI for Science. More experiences about me please refer to <a href="/cv">my CV</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
@@ -43,7 +43,7 @@ title: Home
 <h2 class="feature-title l-middle">Featured <a href="/cv/#publications">Research Publications</a></h2>
 
 <p class="feature-text l-middle">
-	My recent research for generative models, spatiotemporal predictive learning, and image / video perception.
+	My recent research for generative models, predictive learning, and visual perception.
 </p>
 
 <div class="cover-wrapper cover-wrapper-3-col l-middle">
@@ -62,7 +62,7 @@ title: Home
 	My recent research for open-source projects and everything else.
 </p>
 
-<div class="cover-wrapper cover-wrapper-1-col l-text">
+<div class="cover-wrapper cover-wrapper-1-col l-middle">
 	{% include dissertation/document.html details=false location=home %}
 </div>
 
