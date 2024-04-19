@@ -3,7 +3,8 @@ layout: paper
 categories: papers
 permalink: papers/predtoken
 id: predtoken
-title: "PredToken"
+title: "PredToken: Predicting Unknown Tokens and Beyond with Coarse-to-Fine Iterative Decoding"
+feature-title: PredToken
 authors: 
   - Xuesong Nie
   - Haoyuan Jin
@@ -22,7 +23,7 @@ type: conference
 figure: /images/papers/predtoken.png
 doi: 10.1145/3491102.3501823
 selected: true
-feature-description: <strong>Xuesong Nie</strong>, Haoyuan Jin, Yunfeng Yan, Xi Chen, Zhihang Zhu, Donglian Qi
+feature-description: <b>Xuesong Nie</b>, Haoyuan Jin, Yunfeng Yan, Xi Chen, Zhihang Zhu, Donglian Qi
 image: /images/featured/predtoken.png
 featured: true
 feature-order: 0
