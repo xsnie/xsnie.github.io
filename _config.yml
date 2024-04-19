@@ -1,6 +1,6 @@
-title: Fred Hohman
-tagline: Research Scientist at Apple
-url: http://fredhohman.com
+title: Xuesong Nie
+tagline: M.S. Student at Zhejiang University
+url: http://xuesongnie.top
 baseurl: ""
 # gems: [jekyll-paginate]
 # paginate: 5
@@ -14,9 +14,9 @@ sass:
   style: compressed
 
 author:
-  name: Fred Hohman
-  url: http://fredhohman.com
-  email: fred.hohman@gmail.com
+  name: Xuesong Nie
+  url: http://xuesongnie.top
+  email: xuesongnie@zju.edu.cn
 
 markdown: kramdown
 highlighter: rouge

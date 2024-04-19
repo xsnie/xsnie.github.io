@@ -30,7 +30,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		My long-term aspiration is to create innovations that might change human life. With this vision in mind, my current research interests and focus: 1. Spatiotemporal Predictive Learning; 2. Image / Video Perception; 3. Generative Models; 4. AI for Science. More experiences about me please refer to <a href="/cv">my CV</a>.
+		My long-term aspiration to help people <b>understand the world</b> with <b>machine learning models</b>. With this vision in mind, my current research interests and focus: 1. Spatiotemporal Predictive Learning; 2. Image / Video Perception; 3. Generative Models; 4. AI for Science. More experiences about me please refer to <a href="/cv">my CV</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
@@ -42,7 +42,7 @@ title: Home
 
 <h2 class="feature-title l-middle">Featured <a href="/cv/#publications">Research Publications</a></h2>
 
-<p class="l-middle feature-text">
+<p class="feature-text l-middle">
 	My recent research for generative models, spatiotemporal predictive learning, and image / video perception.
 </p>
 
@@ -58,7 +58,7 @@ title: Home
 <br>
 <h2 class="feature-title l-middle">Featured <a href="/dissertation">Dissertation Publications</a></h2>
 
-<p class="l-middle feature-text">
+<p class="feature-text l-middle">
 	My recent research for open-source projects and everything else.
 </p>
 
