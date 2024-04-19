@@ -23,7 +23,7 @@ type: conference
 figure: /images/papers/predtoken.png
 doi: 10.1145/3491102.3501823
 selected: true
-feature-description: <b>Xuesong Nie</b>, Haoyuan Jin, Yunfeng Yan, Xi Chen, Zhihang Zhu, Donglian Qi
+feature-description: PredToken generates high-quality images and videos using a coarse-to-fine manner
 image: /images/featured/predtoken.png
 featured: true
 feature-order: 0
