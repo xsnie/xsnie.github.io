@@ -1,0 +1,68 @@
+- id: email
+  description: "xuesongnie@zju.edu.cn"
+  color: "#515151"
+  class: "fas fa-envelope icon"
+  url: "mailto:xuesongnie@zju.edu.cn"
+  on-homepage: true
+  cv-group: 1
+
+- id: twitter
+  description: "@vanilla_vida"
+  color: "#1da1f2"
+  class: "fab fa-twitter icon"
+  url: https://twitter.com/vanilla_vida
+  on-homepage: true
+  cv-group: 2
+
+- id: github
+  description: "@xuesongnie"
+  color: "#6e5494"
+  class: "fab fa-github icon"
+  url: "https://github.com/xuesongnie"
+  on-homepage: true
+  cv-group: 2
+
+- id: linkedin
+  description: "xuesongnie"
+  color: "#0077b5"
+  class: "fab fa-linkedin-in icon"
+  url: "http://www.linkedin.com/in/xuesongnie"
+  on-homepage: true
+
+- id: mastodon
+  description: "xuesongnie"
+  color: "#6364FF"
+  class: "fab fa-mastodon icon"
+  url: "https://vis.social/@xuesongnie"
+  on-homepage: true
+
+- id: home
+  description: "xuesongnie.top"
+  color: "#515151"
+  class: "fas fa-home icon"
+  url: "https://xuesongnie.top"
+  on-homepage: false
+  cv-group: 1
+
+- id: scholar
+  description: "Google Scholar"
+  color: "#515151"
+  class: "fa fa-graduation-cap icon"
+  url: "https://scholar.google.com/citations?user=nBPNLhgAAAAJ"
+  on-homepage: true
+  cv-group: 2
+
+- id: cv
+  description: CV PDF
+  color: "#ba2818"
+  class: "far fa-file-pdf icon"
+  url: "/cv.pdf"
+  on-homepage: false
+  cv-group: 1
+
+- id: cv-web
+  description: CV
+  color: "#515151"
+  class: "fa fa-address-card icon"
+  url: "/cv"
+  on-homepage: false
