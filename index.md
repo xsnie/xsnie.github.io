@@ -38,7 +38,7 @@ title: Home
 	</div>
 </div>
 
-<hr class="l-middle home-hr">
+<hr class="home-hr l-middle">
 
 <h2 class="feature-title l-middle">Featured <a href="/cv/#publications">Research Publications</a></h2>
 
