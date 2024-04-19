@@ -23,7 +23,7 @@ feature-title: Model Compression in Practice
 feature-description: Lessons learned from practitioners creating on-device machine learning experiences
 image: /images/featured/compression.png
 featured: true
-feature-order: 0
+feature-order: 100
 coming-soon: true
 bibtex: |-
 
