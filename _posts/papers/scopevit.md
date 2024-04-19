@@ -26,7 +26,7 @@ selected: true
 feature-description: <b>Xuesong Nie</b>, Haoyuan Jin, Yunfeng Yan, Xi Chen, Zhihang Zhu, Donglian Qi
 image: /images/featured/scopevit.png
 featured: true
-feature-order: 1
+feature-order: 2
 coming-soon: false
 bibtex: |-
 
