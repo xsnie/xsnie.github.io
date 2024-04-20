@@ -1,6 +1,4 @@
-$cover-size-scalar: 27;
-$cover-height: 13.5px;
-$cover-width: 8.5px;
+$cover-height: 360px;
 
 .cover-wrapper {
   display: grid;
@@ -20,8 +18,8 @@ $cover-width: 8.5px;
 }
 
 .cover {
-  height: $cover-height*$cover-size-scalar;
-  // width: $cover-width*$cover-size-scalar;
+  height: $cover-height;
+  // width: $cover-width;
   
   text-align: left;
   display: flex;
