@@ -30,13 +30,13 @@ jsarr:
 </div> -->
 
 <div>
-My research seeks to explore and understand the mechanisms of the real world through <b><span class="cv-ml">machine learning</span></b> and <b><span class="cv-cv">computer vision</span></b>, such as visual perception, predictive learning, and generative models.
+My research seeks to explore and understand the mechanisms of the real world through <b><span class="cv-ml">machine learning</span></b> and <b><span class="cv-cv">computer vision</span></b>, such as visual perception, predictive learning, and generative models. My long-term aspiration is to create innovations that might change human life.
 </div>
 
 <div class="cv-spacer"></div>
 
 <div>
-I have collaborated with researchers, designers, developers, and artists while working at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab.
+I have interned and collaborated with distinguished researchers in both industrial and academic settings, including at Alibaba and the CAIRI AI Lab at Westlake University.
 </div>
 
 <div class="cv-spacer"></div>
