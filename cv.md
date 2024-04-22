@@ -6,9 +6,9 @@ jsarr:
 - js/scripts.js
 ---
 
-<h1 id="cv-title"><a href="{{ site.url }}">Fred Hohman</a></h1>
+<h1 id="cv-title"><a href="{{ site.url }}">Xuesong Nie</a></h1>
 
-<p id="cv-subtitle"><i>Research Scientist (<span class="cv-vis">HCI</span> + <span class="cv-ai">ML</span>)</i></p>
+<p id="cv-subtitle"><i>M.S. Student (<span class="cv-ml">ML</span> + <span class="cv-cv">CV</span>)</i></p>
 
 <!-- <div id="cv-toc">
 <ul class="cv-description">
@@ -30,7 +30,7 @@ jsarr:
 </div> -->
 
 <div>
-I design and develop <b><span class="cv-vis">interactive interfaces</span></b> to help people <b><span class="cv-ai">understand machine learning</span></b> models and data-driven systems. Besides building tools, I also create data visualizations and write interactive articles to simply communicate complex ideas.
+My research seeks to explore and understand the mechanisms of the real world through <b><span class="cv-ml">machine learning</span></b> and <b><span class="cv-cv">computer vision</span></b>, such as visual perception, predictive learning, and generative models.
 </div>
 
 <div class="cv-spacer"></div>
