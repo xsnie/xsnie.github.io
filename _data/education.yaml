@@ -21,22 +21,23 @@
     - ACM SIGCHI Outstanding Dissertation Award
     - Georgia Tech College of Computing Dissertation Award
 
-- degree: "M.S. in Computational Science & Engineering"
-  institution: Georgia Institute of Technology
-  location: "Atlanta, GA"
-  years: May 2018
-  institution-url: https://www.gatech.edu/
+- degree: "M.S. in Electronic Information Engineering"
+  institution: Zhejiang University
+  location: "Zhejiang, China"
+  years: "Sep. 2022 &ndash;"
+  years-extra: "Mar. 2025"
+  institution-url: https://www.zju.edu.cn/
   description:
     - "GPA: 4.00/4.00"
 
-- degree: "B.S. in Mathematics, B.S. in Physics"
-  years: "Aug. 2011 —"
-  years-extra: "May 2015"
-  institution: University of Georgia
-  location: "Athens, GA"
-  thesis: "3D Printing the Trefoil Knot and its Pages"
+- degree: "B.S. in Communication Engineering"
+  years: "Sep. 2018 &ndash;"
+  years-extra: "Jun. 2022"
+  institution: Henan University
+  location: "Henan, China"
+  thesis: "Cooperative Path Planning for Multiple AUVs in Dynamic Environments"
   thesis-link: ../projects/3d-printing-the-trefoil-knot-and-its-pages/
-  thesis-pdf: ../papers/fred-hohman-undergrad-thesis.pdf
+  thesis-pdf: ../papers/xuesong-nie-undergrad-thesis.pdf
   description: 
-    - "Overall GPA: 3.84/4.00, Magna Cum Laude, Area of Emphasis in Applied Mathematics"
-  institution-url: https://www.uga.edu/
+    - "Overall GPA: 3.93/4.00, Rank: 1/107, Outstanding Graduate of Henan Province"
+  institution-url: https://www.henu.edu.cn/
