@@ -1,38 +1,38 @@
 - institution: Alibaba
-  location: "Hangzhou, Zhejiang, China"
+  location: Hangzhou, Zhejiang, China
   position: Research Intern
-  group: "Visual Search Group"
-  year: "Sep. 2023 &ndash;"
-  year-extra: "Feb. 2024"
+  group: Visual Search Group
+  year: Sep. 2023 &ndash;
+  year-extra: Feb. 2024
   mentors:
     - Xi Chen
-  description: "Research and design for everyone in the machine learning process—the developers who build models, the designers who create experiences, and the people who use technology."
+  description: Research explores AIGC tasks for images and videos, including generation, editing, and downstream applications. We have developed a high-quality visual generative framework, <a href="{{ site.url }}/papers/predtoken">PredToken</a>, which has been published at CVPR 2024.
   institution-url: https://www.alibaba.com/
   group-url: https://www.alibaba.com/
   type: industry
 
 - institution: Westlake University
-  location: "Hangzhou, Zhejiang, China"
+  location: Hangzhou, Zhejiang, China
   position: Research Intern
   group: CAIRI AI Lab
-  year: "Mar. 2023 &ndash;"
-  year-extra: "Aug. 2023"
+  year: Mar. 2023 &ndash;
+  year-extra: Aug. 2023
   mentors:
     - Stan Z. Li
-  description: "Member of the Polo Club of Data Science where we bridge and innovate at the intersection of data mining and human-computer interaction to synthesize scalable, interactive, and interpretable tools that amplify human’s ability to understand and interact with big data."
+  description: Research investigates spatiotemporal modeling methods, introducing a new benchmark for spatiotemporal predictive learning. We present a efficient recurrent-free spatiotemporal predictive model, <a href="{{ site.url }}/papers/wast">WaST</a>, which has been published at AAAI 2024.
   institution-url: https://www.westlake.edu.cn/
   group-url: https://www.westlake.edu.cn/
   type: academic
 
 - institution: Alibaba
-  location: "Hangzhou, Zhejiang, China"
+  location: Hangzhou, Zhejiang, China
   position: Research Intern
-  group: "Visual Search Group"
-  year: "Sep. 2022 &ndash;"
-  year-extra: "Feb. 2023"
+  group: Visual Search Group
+  year: Sep. 2022 &ndash;
+  year-extra: Feb. 2023
   mentors:
     - Xi Chen
-  description: "Research and design for everyone in the machine learning process—the developers who build models, the designers who create experiences, and the people who use technology."
+  description: This research focuses on the design of efficient visual perception networks based on CNNs and Transformers. We introduce the scale-aware vision transformer, <a href="{{ site.url }}/papers/scopevit">ScopeViT</a>, which has been published in Pattern Recognition 2024.
   institution-url: https://www.alibaba.com/
   group-url: https://www.alibaba.com/
   type: industry
@@ -45,7 +45,7 @@
   year-extra: Jan. 2021
   mentors:
     - Haiwu Zheng
-  description: Research on using ultrasonics to control the spatial positioning of micro-objects, involving embedded programming, PCB design, and 3D printing. It has successfully implemented and patented <a href="https://patents.google.com/patent/CN112407964A/en">a contactless transmission system based on standing wave levitation</a>.
+  description: Research on using ultrasonics to control the spatial positioning of micro-objects, involving embedded programming, PCB design, and 3D printing. It has successfully implemented and patented <a href="https://patents.google.com/patent/CN112407964A/en">a non-contact transmission system based on standing wave suspension</a>.
   institution-url: https://www.henu.edu.cn/
   group-url: https://www.henu.edu.cn/
   type: academic
