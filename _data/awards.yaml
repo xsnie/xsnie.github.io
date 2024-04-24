@@ -1,77 +1,28 @@
-- name: Best Paper, Honorable Mention at ACM IDC Conference
-  description: For "Collaborative Machine Learning Model Building with Families Using Co-ML
-  year: 2023
-
-- name: ACM SIGCHI Outstanding Dissertation Award
-  description: 'For my dissertation "Interactive Scalable Interfaces for Machine Learning Interpretability"'
-  year: 2022
-
-- name: Georgia Tech College of Computing Dissertation Award
-  description: 'For my dissertation "Interactive Scalable Interfaces for Machine Learning Interpretability"'
-  year: 2022
-
-- name: Best Paper at ACM CHI Conference
-  description: 'For "Neo: Generalizing Confusion Matrix Visualization to Hierarchical and Multi-Output Labels"'
-  year: 2022
-
-- name: Best Paper at ACM CHI Conference
-  description: For "Managing Messes in Computational Notebooks"
-  year: 2019
-
-- name: Best Paper, Honorable Mention at VISxAI Workshop at IEEE VIS
-  description: For "The Beginner's Guide to Dimensionality Reduction"
-  year: 2018
-
-- name: NASA Space Technology Research Fellowship
-  description: For my Ph.D. work on "Understanding Deep Neural Networks Through Attribution and Interactive Experimentation"
-  year: "2018 — 2021"
-
-- name: Audience Appreciation Award, Runner Up at ACM SIGKDD Conference
-  description: 'For "Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression"'
-  year: 2018
-
-- name: "Microsoft Azure for Research Award: AI for Earth"
-  description: For our work on "Deep Learning for Fine-scale Population Maps"
-  year: "2017 — 2018"
-
-
-- name: "President's Fellowship at Georgia Institute of Technology"
-  description: Select number of 1st year doctoral students who bring exemplary levels of scholarship and innovation to their academic departments
-  year: "2015 — 2019"
-
-- name: Outstanding Poster at JMM Undergraduate Poster Session in Computational Math
-  description: For "Experimental and Numerical Comparison of Oceanic Overflow"
-  year: 2015
-
-- name: UGA CURO Research Graduation Distinction
-  description: Awarded to undergraduates who write a thesis, present at the CURO Symposium, and complete 9 research credit hours
-  year: 2015
-
-- name: UGA CURO Research Assistantship
-  description: Stipend awarded to outstanding undergraduates that actively participate in faculty-mentored research
-  year: 2014
-
-# - name: Presidential Scholar
-#   description: "Achieved a 4.0 GPA during a semester with minimum 14 credit hours"
-#   year: 2013
-
-- name: "Dean's List"
-  description: Achieved at least a 3.5 GPA during a semester with minimum 14 credit hours
-  year: 2011 — 2015
-
-- name: "Mission of Blessed Trinity: Artistic Sensibility"
-  description: One of two students to receive the Mission Statement award upon high-school graduation
-  year: 2011
+- name: 1st Place in in the "Sanhao Cup" Fitness and Bodybuilding Contest of Zhejiang University
+  description: The highest-level sports event at Zhejiang University, winning the overall championship in the 70kg bodybuilding category
+  year: Jun. 2023
 
 - name: Golden Age Scholarship
   description: Merit-based award for full-time students at Zhejiang University, providing 10,000 CNY per year for 3 years
   year: 2022 &ndash; 2023
 
-- name: Henan University Scholarship
-  description: Scholarship awarded to support academic and personal development at Henan University
-  year: 2018 &ndash; 2019
+- name: Outstanding Graduate of Henan Province
+  description: Awarded to graduates with academic achievements, top 0.1%
+  year: Feb. 2022
 
-- name: Henan University Outstanding Student Award
-  description: Recognized as an outstanding student for exceptional academic and extracurricular achievements
-  year: 2018 &ndash; 2020
+- name: The Stars of Self-improvement of Chinese College Students
+  description: The highest national honor recognizing the perseverance and outstanding social contributions of Chinese university students, 2 awardees campus-wide
+  year: Dec. 2021
+
+- name: 1st Prize in the 6th China Undergraduate Physics Experiment Competition
+  description: The highest-level physics experiment competition in China
+  year: Dec. 2020
+
+- name: 1st Prize in the 11th "Blue Bridge Cup" National Competition
+  description: The highest honor for programming competition in China's IT sector
+  year: Nov. 2020
+
+
+
+
 
