@@ -119,6 +119,7 @@ I have interned and collaborated with distinguished researchers in both industri
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
+<!-- 
 ### Preprint
 
 {% assign preprint = site.categories.papers | where: 'type', "preprint" %}
@@ -152,8 +153,9 @@ I have interned and collaborated with distinguished researchers in both industri
 {% assign preprint = site.categories.papers | where: 'type', "misc" %}
 {% for pub in preprint %}
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
-{% endfor %}
+{% endfor %} -->
 
+ 
 ## Talks
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
@@ -161,11 +163,12 @@ I have interned and collaborated with distinguished researchers in both industri
 {% include cv/talk.html talk=title %}
 {% endfor %}
 
+<!-- 
 ## Press
 
 {% for press in site.data.press %}
 {% include cv/press.html press=press %}
-{% endfor %}
+{% endfor %} -->
 
 ## Teaching
 
@@ -173,6 +176,7 @@ I have interned and collaborated with distinguished researchers in both industri
 {% include cv/teaching.html teach=teach %}
 {% endfor %}
 
+<!-- 
 ## Mentoring
 
 {::nomarkdown}
@@ -195,14 +199,14 @@ I have interned and collaborated with distinguished researchers in both industri
 {% endunless %}
 {% endfor %}
 
-<!-- ## Technology Skills
+## Technology Skills
 
 {% for skill in site.data.skills %}
 {% include cv/skill.html skill=skill %}
 {% endfor %} -->
 
 ## Service
-
+<!-- 
 <div class="cv-service-title"><b>Organizer</b></div>
 {% for venue in site.data.organizer %}
 {% include cv/venue.html venue=venue %}
@@ -211,13 +215,14 @@ I have interned and collaborated with distinguished researchers in both industri
 <div class="cv-service-title"><b>Program Commitee</b></div>
 {% for venue in site.data.pc %}
 {% include cv/venue.html venue=venue %}
-{% endfor %}
+{% endfor %} -->
 
 <div class="cv-service-title"><b>Reviewer</b></div>
 {% for venue in site.data.reviewer %}
 {% include cv/venue.html venue=venue %}
 {% endfor %}
 
+<!-- 
 <div class="cv-service-title"><b>Institutional</b></div>
 {% for institution in site.data.institutional %}
 {% include cv/institutional.html institution=institution %}
@@ -226,13 +231,14 @@ I have interned and collaborated with distinguished researchers in both industri
 <div class="cv-service-title"><b>Member</b></div>
 {% for member in site.data.memberships %}
 {% include cv/member.html member=member %}
-{% endfor %}
+{% endfor %} -->
 
+<!-- 
 ## Design
 
 {% for design in site.data.designs %}
 {% include cv/design.html design=design %}
-{% endfor %}
+{% endfor %} -->
 
 ## References
 
