@@ -34,9 +34,6 @@
   description: For our work on "Deep Learning for Fine-scale Population Maps"
   year: "2017 — 2018"
 
-- name: "Best Demo, Honorable Mention at ACM SIGMOD/PODS Conference"
-  description: For "Visual Graph Query Construction and Refinement"
-  year: 2017
 
 - name: "President's Fellowship at Georgia Institute of Technology"
   description: Select number of 1st year doctoral students who bring exemplary levels of scholarship and innovation to their academic departments
@@ -62,14 +59,19 @@
   description: Achieved at least a 3.5 GPA during a semester with minimum 14 credit hours
   year: 2011 — 2015
 
-- name: Georgia HOPE Scholarship
-  description: "Merit-based award to Georgia residents providing tuition assistance for their undergraduate degree"
-  year: "2011 — 2015"
-
 - name: "Mission of Blessed Trinity: Artistic Sensibility"
   description: One of two students to receive the Mission Statement award upon high-school graduation
   year: 2011
 
-# - name: Eagle Scout Award
-#   description: "Highest achievement attainable in the Boy Scouts of America, only 4% of scouts granted this rank"
-#   year: 2009
+- name: Golden Age Scholarship
+  description: Merit-based award for full-time students at Zhejiang University, providing 10,000 CNY per year for 3 years
+  year: 2022 &ndash; 2023
+
+- name: Henan University Scholarship
+  description: Scholarship awarded to support academic and personal development at Henan University
+  year: 2018 &ndash; 2019
+
+- name: Henan University Outstanding Student Award
+  description: Recognized as an outstanding student for exceptional academic and extracurricular achievements
+  year: 2018 &ndash; 2020
+

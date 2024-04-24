@@ -32,7 +32,7 @@
   year-extra: Feb. 2023
   mentors:
     - Xi Chen
-  description: This research focuses on the design of efficient visual perception networks based on CNNs and Transformers. We introduce the scale-aware vision transformer, <a href="../papers/scopevit">ScopeViT</a>, which has been published in Pattern Recognition 2024.
+  description: This research focuses on the design of efficient visual perception backbones based on CNNs and Transformers. We introduce the scale-aware vision transformer, <a href="../papers/scopevit">ScopeViT</a>, which has been published in Pattern Recognition 2024.
   institution-url: https://www.alibaba.com/
   group-url: https://www.alibaba.com/
   type: industry
@@ -45,7 +45,7 @@
   year-extra: Jan. 2021
   mentors:
     - Haiwu Zheng
-  description: Research on using ultrasonics to control the spatial positioning of micro-objects, involving embedded programming, PCB design, and 3D printing. The patent, <a href="https://patents.google.com/patent/CN112407964A/en">non-contact transmission system based on standing wave suspension</a> has been granted.
+  description: Research on using ultrasonics to control the spatial positioning of micro-objects, involving embedded programming, PCB design, and 3D printing. The patent, <a href="https://patents.google.com/patent/CN112407964A/en">non-contact transmission system based on standing wave suspension</a>, has been granted.
   institution-url: https://www.henu.edu.cn/
   group-url: https://www.henu.edu.cn/
   type: academic
