@@ -155,7 +155,12 @@ I have interned and collaborated with distinguished researchers in both industri
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %} -->
 
- 
+## Projects
+
+{% for project in site.data.projects %}
+{% include cv/project.html project=project %}
+{% endfor %}
+
 ## Talks
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
@@ -231,13 +236,6 @@ I have interned and collaborated with distinguished researchers in both industri
 <div class="cv-service-title"><b>Member</b></div>
 {% for member in site.data.memberships %}
 {% include cv/member.html member=member %}
-{% endfor %} -->
-
-<!-- 
-## Design
-
-{% for design in site.data.designs %}
-{% include cv/design.html design=design %}
 {% endfor %} -->
 
 ## References
