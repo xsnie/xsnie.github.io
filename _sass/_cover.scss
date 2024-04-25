@@ -1,5 +1,15 @@
 $cover-height: 360px;
 
+.cover-spacer {
+	margin-top: 2rem;
+	display: block;
+}
+
+.cover-spacer-small {
+	margin-top: 1rem;
+	display: block;
+}
+
 .cover-wrapper {
   display: grid;
   gap: 1rem;

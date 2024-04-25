@@ -10,11 +10,11 @@ Things I do, including research, academic course projects, and miscellaneous int
 
 My recent research for open-source projects and everything else.
 
-<div class="cover-wrapper cover-wrapper-1-col l-text">
+<div class="cover-wrapper cover-wrapper-1-col l-middle">
 	{% include dissertation/document.html details=false location=home %}
 </div>
 
-<div class="cover-wrapper cover-wrapper-3-col l-page">
+<div class="cover-wrapper cover-wrapper-3-col l-middle">
 	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
 	{% for feature in sortedPublications %}
 		{% if feature.dissertation == true %}
@@ -31,7 +31,7 @@ My recent research for generative models, predictive learning, and visual percep
 
 <div class="project-spacer-small"></div>
 
-<div class="l-page project-grid">
+<div class="l-middle project-grid">
     {% for project in site.categories.papers %}
     {% include project.html project=project %}
     {% endfor %}

@@ -12,6 +12,7 @@ authors:
   - Xi Chen
   - Zhihang Zhu
   - Donglian Qi
+first-author: true
 venue: IEEE/CVF Conference on Computer Vision and Pattern Recognition
 venue-shorthand: CVPR
 location: Seattle WA, USA
@@ -23,7 +24,7 @@ type: conference
 figure: /images/papers/predtoken.png
 doi: 10.1145/3491102.3501823
 selected: true
-feature-description: PredToken can generate high-quality images and videos using a coarse-to-fine manner <br><br> <b>Xuesong Nie</b>
+feature-description: PredToken can generate high-quality images and videos using a coarse-to-fine manner
 image: /images/featured/predtoken.png
 featured: true
 feature-order: 0
