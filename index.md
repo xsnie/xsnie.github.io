@@ -56,7 +56,7 @@ title: Home
 </div>
 
 <br>
-<h2 class="feature-title l-middle">Featured <a href="/dissertation">Dissertation Publications</a></h2>
+<h2 class="feature-title l-middle">Related <a href="/cv/#publications">Research Publications</a></h2>
 
 <p class="feature-text l-middle">
 	My recent research for open-source projects and everything else.
