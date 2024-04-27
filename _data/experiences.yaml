@@ -6,7 +6,7 @@
   year-extra: Feb. 2024
   mentors:
     - Xi Chen
-  description: Research explores AIGC tasks for images and videos, including generation, editing, and downstream applications. We have developed a high-quality visual generative framework, <a href="../papers/predtoken">PredToken</a>, which has been published at CVPR 2024.
+  description: Research explores AIGC tasks for images and videos, including generation, editing, and downstream applications. We present a high-quality visual generative framework, <a href="../papers/predtoken">PredToken</a>, which has been published at CVPR 2024.
   institution-url: https://www.alibaba.com/
   group-url: https://www.alibaba.com/
   type: industry
@@ -40,14 +40,14 @@
 - institution: Zhejiang University
   location: Hangzhou, Zhejiang, China
   position: Research Assistant
-  group: CAIRI AI Lab
+  group: College of Electrical Engineering
   year: 2022 &ndash;
   year-extra: Present
   mentors:
     - Donglian Qi
-  description: Developing a video and image detection platform for defect detection in power transmission and transformation equipment. We proposed a novel online multi-object tracker <a href="../papers/ahor">AHOR</a> and a dimension-aware video transformer <a href="../papers/tat">TAT</a>, published in TCSVT 2024 and WACV 2024 respectively.
+  description: Developing a video and image detection platform for defect detection in power transmission and transformation equipment. We propose a novel online multi-object tracker <a href="../papers/ahor">AHOR</a> and a dimension-aware video transformer <a href="../papers/tat">TAT</a>, published in TCSVT 2024 and WACV 2024 respectively.
   institution-url: https://www.zju.edu.cn/
-  group-url: https://www.zju.edu.cn/
+  group-url: http://ee.zju.edu.cn/englishee/main.htm
   type: academic
 
 - institution: Henan University
