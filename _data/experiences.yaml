@@ -32,10 +32,23 @@
   year-extra: Feb. 2023
   mentors:
     - Xi Chen
-  description: This research focuses on the design of efficient visual perception backbones based on CNNs and Transformers. We introduce the scale-aware vision transformer, <a href="../papers/scopevit">ScopeViT</a>, which has been published in Pattern Recognition 2024.
+  description: This research focuses on the design of efficient visual perception backbones based on CNNs and Transformers. We propose a scale-aware vision transformer called <a href="../papers/scopevit">ScopeViT</a> to captures multi-granularity representations, published at Pattern Recognition 2024.
   institution-url: https://www.alibaba.com/
   group-url: https://www.alibaba.com/
   type: industry
+
+- institution: Zhejiang University
+  location: Hangzhou, Zhejiang, China
+  position: Research Assistant
+  group: CAIRI AI Lab
+  year: 2022 &ndash;
+  year-extra: Present
+  mentors:
+    - Donglian Qi
+  description: Developing a video and image detection platform for defect detection in power transmission and transformation equipment. We proposed a novel online multi-object tracker <a href="../papers/ahor">AHOR</a> and a dimension-aware video transformer <a href="../papers/tat">TAT</a>, published in TCSVT 2024 and WACV 2024 respectively.
+  institution-url: https://www.zju.edu.cn/
+  group-url: https://www.zju.edu.cn/
+  type: academic
 
 - institution: Henan University
   location: Kaifeng, Henan, China

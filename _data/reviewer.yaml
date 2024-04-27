@@ -3,14 +3,12 @@
   years:
     - year: 2023
       url: https://cvpr.thecvf.com/Conferences/2023
-    - year: 2022
-      url: https://cvpr2022.thecvf.com/
 
-- venue: IEEE International Conference on Computer Vision
-  venue-shorthand: ICCV
+- venue: European Conference on Computer Vision
+  venue-shorthand: ECCV
   years: 
-    - year: 2023
-      url: https://iccv2023.thecvf.com/
+    - year: 2024
+      url: https://eccv2024.ecva.net/
 
 - venue: AAAI Conference on Artificial Intelligence
   venue-shorthand: AAAI
@@ -29,6 +27,12 @@
   years:
     - year: 2024
       url: https://wacv2024.thecvf.com/
+
+- venue: IEEE International Conference on Multimedia and Expo
+  venue-shorthand: ICME
+  years:
+    - year: 2024
+      url: https://2024.ieeeicme.org/
 
 - venue: IEEE Transactions on Circuits and Systems for Video Technology
   venue-shorthand: TCSVT
