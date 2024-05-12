@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Everything Else
-permalink: everything-else/
+title: Misc
+permalink: misc/
 ---
 
 ## [Projects][projects]

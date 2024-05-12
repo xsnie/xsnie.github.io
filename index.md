@@ -23,7 +23,7 @@ title: Home
 	<div id="everything-else" class="l-middle">
 		<a href="{{ site.url }}/cv"><div><i class="fa fa-portrait icon icon-right-space"></i>CV</div></a>
 		<a href="{{ site.url }}/projects"><div><i class="fa fa-shapes icon icon-right-space"></i>Projects</div></a>
-		<a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a>
+		<a href="{{ site.url }}/misc"><div><i class="fa fa-list-ul icon icon-right-space"></i>Misc</div></a>
 	</div>
 	<div>
 		I am currently a second-year M.S. student in the Zhejiang University working on computer vision, supervised by Prof. <a href="https://person.zju.edu.cn/0004117">Donglian Qi</a>. Before that, I obtained a Bachelor of Science in Communication Engineering from Henan University. I have spent wonderful times as an intern with with Dr. <a href="https://xavierchen34.github.io/">Xi Chen</a> at Alibaba, and Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ">Stan Z. Li</a> at <a href="https://www.westlake.edu.cn/">CAIRI AI Lab</a>.
