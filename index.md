@@ -26,7 +26,7 @@ title: Home
 		<a href="{{ site.url }}/misc"><div><i class="fa fa-list-ul icon icon-right-space"></i>Misc</div></a>
 	</div>
 	<div>
-	    I am currently a second-year M.S. student at Zhejiang University, <a href="http://10.14.114.161:7800/home">IC<sup>3</sup> Lab</a>&ndash;supervised by Prof. <a href="https://person.zju.edu.cn/0004117">Donglian Qi</a>. Before that, I obtained a Bachelor of Science in Communication Engineering from Henan University. I have spent wonderful times as an intern with with Dr. <a href="https://xavierchen34.github.io/">Xi Chen</a> at Alibaba, and Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ">Stan Z. Li</a> at <a href="https://www.westlake.edu.cn/">CAIRI AI Lab</a>.
+	    I am currently a second-year M.S. student at Zhejiang University, in the <a href="http://10.14.114.161:7800/home">IC<sup>3</sup> Lab</a>, supervised by Prof. <a href="https://person.zju.edu.cn/0004117">Donglian Qi</a>. Before that, I obtained a Bachelor of Science in Communication Engineering from Henan University. I have spent wonderful times as an intern with with Dr. <a href="https://xavierchen34.github.io/">Xi Chen</a> at Alibaba, and Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ">Stan Z. Li</a> at <a href="https://www.westlake.edu.cn/">CAIRI AI Lab</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
