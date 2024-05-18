@@ -18,11 +18,11 @@ venue-shorthand: CVPR
 location: Seattle WA, USA
 year: 2024
 url: /papers/predtoken
-pdf: https://arxiv.org/abs/2310.04621
-code: https://github.com/xuesongnie
+pdf: https://cvpr.thecvf.com/virtual/2024/poster/29183#/
+code: /papers/predtoken
 type: conference
 figure: /images/papers/predtoken.png
-doi: 10.1145/3491102.3501823
+doi: 10.1016/j.patcog.2024.110470
 selected: true
 feature-description: PredToken can generate high-quality images and videos using a coarse-to-fine manner
 image: /images/featured/predtoken.png
