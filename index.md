@@ -30,7 +30,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		My long-term aspiration is to help people <b>understand the world</b> with <b>machine learning models</b>. With this vision in mind, my current research interests and focus: 1. Spatiotemporal Predictive Learning; 2. Visual Perception; 3. Generative Models; 4. AI for Science, but not limited to these fields. More details about me please refer to <a href="/cv">CV</a>.
+		My long-term aspiration is to help people <b>understand the world</b> with <b>machine learning models</b>. With this vision in mind, my current research interests and focus: 1. Predictive Learning; 2. Visual Perception; 3. Generative Models; 4. AI for Science, but not limited to these fields. More details about me please refer to <a href="/cv">CV</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>

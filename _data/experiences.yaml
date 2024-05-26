@@ -1,14 +1,14 @@
 - institution: Alibaba
   location: Hangzhou, Zhejiang, China
   position: Research Intern
-  group: Visual Search Group
+  group: DAMO Academy
   year: Sep. 2023 &ndash;
   year-extra: Feb. 2024
   mentors:
     - Xi Chen
   description: Research explores AIGC tasks for images and videos, including generation, editing, and downstream applications. We present a high-quality visual generative framework, <a href="../papers/predtoken">PredToken</a>, which has been published at CVPR 2024.
-  institution-url: https://www.alibaba.com/
-  group-url: https://www.alibaba.com/
+  institution-url: https://www.alibabagroup.com/en-US
+  group-url: https://www.alibabagroup.com/en-US
   type: industry
 
 - institution: Westlake University
@@ -20,8 +20,8 @@
   mentors:
     - Stan Z. Li
   description: Research investigates spatiotemporal modeling methods, introducing a new benchmark for spatiotemporal predictive learning. We present a efficient recurrent-free spatiotemporal predictive model, <a href="../papers/wast">WaST</a>, which has been published at AAAI 2024.
-  institution-url: https://www.westlake.edu.cn/
-  group-url: https://www.westlake.edu.cn/
+  institution-url: https://en.westlake.edu.cn/#/
+  group-url: https://en.westlake.edu.cn/#/
   type: academic
 
 - institution: Alibaba
@@ -33,8 +33,8 @@
   mentors:
     - Xi Chen
   description: This research focuses on the design of efficient visual perception backbones based on CNNs and Transformers. We propose a scale-aware vision transformer called <a href="../papers/scopevit">ScopeViT</a> to captures multi-granularity representations, published at Pattern Recognition 2024.
-  institution-url: https://www.alibaba.com/
-  group-url: https://www.alibaba.com/
+  institution-url: https://www.alibabagroup.com/en-US
+  group-url: https://www.alibabagroup.com/en-US
   type: industry
 
 - institution: Zhejiang University
@@ -46,7 +46,7 @@
   mentors:
     - Donglian Qi
   description: Developing a video and image detection platform for defect detection in power transmission and transformation equipment. We propose a novel online multi-object tracker <a href="../papers/ahor">AHOR</a> and a dimension-aware video transformer <a href="../papers/tat">TAT</a>, published in TCSVT 2024 and WACV 2024 respectively.
-  institution-url: https://www.zju.edu.cn/
+  institution-url: https://www.zju.edu.cn/english/#/
   group-url: http://ee.zju.edu.cn/englishee/main.htm
   type: academic
 
@@ -59,8 +59,8 @@
   mentors:
     - Haiwu Zheng
   description: Research on using ultrasonics to control the spatial positioning of micro-objects, involving embedded programming, PCB design, and 3D printing. The patent, <a href="https://patents.google.com/patent/CN112407964A/en">non-contact transmission system based on standing wave suspension</a>, has been granted.
-  institution-url: https://www.henu.edu.cn/
-  group-url: https://www.henu.edu.cn/
+  institution-url: https://iao.henu.edu.cn/yw/Home.htm#/
+  group-url: https://iao.henu.edu.cn/yw/Home.htm#/
   type: academic
 
 
