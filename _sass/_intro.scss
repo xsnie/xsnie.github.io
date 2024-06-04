@@ -162,11 +162,11 @@ $cv-icon-aspect-ratio: 1.33;
 	#intro-wrapper, .feature-title, .feature-text, .intro-text, .home-hr {
 		grid-column: page !important;
 	}
-	#everything-else {
-		grid-column: page !important;
-		display: flex;
-		flex-direction: row;
-	}
+	//#everything-else {
+	//	grid-column: page !important;
+	//	display: flex;
+	//	flex-direction: row;
+	//}
 }
 
 @media screen and (max-width: $mobile) {
@@ -183,10 +183,10 @@ $cv-icon-aspect-ratio: 1.33;
 		font-size: 1.35rem;
 	}
 
-	#everything-else {
-		display: flex;
-		flex-direction: row;
-	}
+	//#everything-else {
+	//	display: flex;
+	//	flex-direction: row;
+	//}
 
 	#everything-else > a {
 		background-color: $black-025;
