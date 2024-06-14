@@ -1,15 +1,15 @@
-- institution: Alibaba
-  location: Hangzhou, Zhejiang, China
-  position: Research Intern
-  group: DAMO Academy
-  year: Sep. 2023 &ndash;
-  year-extra: Feb. 2024
-  mentors:
-    - Xi Chen
-  description: Research explores AIGC tasks for images and videos, including generation, editing, and downstream applications. We present a high-quality visual generative framework, <a href="../papers/predtoken">PredToken</a>, which has been published at CVPR 2024.
-  institution-url: https://www.alibabagroup.com/en-US
-  group-url: https://www.alibabagroup.com/en-US
-  type: industry
+#- institution: Alibaba
+#  location: Hangzhou, Zhejiang, China
+#  position: Research Intern
+#  group: DAMO Academy
+#  year: Sep. 2023 &ndash;
+#  year-extra: Feb. 2024
+#  mentors:
+#    - Xi Chen
+#  description: Research explores AIGC tasks for images and videos, including generation, editing, and downstream applications. We present a high-quality visual generative framework, <a href="../papers/predtoken">PredToken</a>, which has been published at CVPR 2024.
+#  institution-url: https://www.alibabagroup.com/en-US
+#  group-url: https://www.alibabagroup.com/en-US
+#  type: industry
 
 - institution: Westlake University
   location: Hangzhou, Zhejiang, China
@@ -24,18 +24,18 @@
   group-url: https://en.westlake.edu.cn/#/
   type: academic
 
-- institution: Alibaba
-  location: Hangzhou, Zhejiang, China
-  position: Research Intern
-  group: Visual Search Group
-  year: Sep. 2022 &ndash;
-  year-extra: Feb. 2023
-  mentors:
-    - Xi Chen
-  description: This research focuses on the design of efficient visual perception backbones based on CNNs and Transformers. We propose a scale-aware vision transformer called <a href="../papers/scopevit">ScopeViT</a> to captures multi-granularity representations, published at Pattern Recognition 2024.
-  institution-url: https://www.alibabagroup.com/en-US
-  group-url: https://www.alibabagroup.com/en-US
-  type: industry
+#- institution: Alibaba
+#  location: Hangzhou, Zhejiang, China
+#  position: Research Intern
+#  group: Visual Search Group
+#  year: Sep. 2022 &ndash;
+#  year-extra: Feb. 2023
+#  mentors:
+#    - Xi Chen
+#  description: This research focuses on the design of efficient visual perception backbones based on CNNs and Transformers. We propose a scale-aware vision transformer called <a href="../papers/scopevit">ScopeViT</a> to captures multi-granularity representations, published at Pattern Recognition 2024.
+#  institution-url: https://www.alibabagroup.com/en-US
+#  group-url: https://www.alibabagroup.com/en-US
+#  type: industry
 
 - institution: Zhejiang University
   location: Hangzhou, Zhejiang, China
