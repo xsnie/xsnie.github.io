@@ -18,7 +18,7 @@ venue-shorthand: CVPR
 location: Seattle WA, USA
 year: 2024
 url: /papers/predtoken
-pdf: https://cvpr.thecvf.com/virtual/2024/poster/29183#/
+pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Nie_PredToken_Predicting_Unknown_Tokens_and_Beyond_with_Coarse-to-Fine_Iterative_Decoding_CVPR_2024_paper.pdf#/
 code: /papers/predtoken
 type: conference
 figure: /images/papers/predtoken.png
